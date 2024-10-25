@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LogBook</string>
+    <string name="title_home">TodoApp</string>
+    <string name="title_dashboard">UnitConverter</string>
+    <string name="title_notifications">Notifications</string>
+    <string-array name="units_array">
+        <item>Centimeter</item>
+        <item>Millimeter</item>
+        <item>Meter</item>
+    </string-array>
+</resources>
